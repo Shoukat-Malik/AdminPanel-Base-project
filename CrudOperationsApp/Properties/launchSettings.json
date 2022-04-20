@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "CrudOperationsApp": {
+    "Staging.Environment": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
